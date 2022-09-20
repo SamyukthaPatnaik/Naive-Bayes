@@ -22,5 +22,7 @@ Where,
 **P(A) is Prior Probability:** Probability of hypothesis before observing the evidence.
 
 **P(B) is Marginal Probability:** Probability of Evidence.
+
+## Types of Naive Bayes Model
  
  ![Image](https://serokell.io/files/vq/vq0rg0h0.3_(37).jpg)
